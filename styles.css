@@ -6,7 +6,7 @@
 }
 
 html, body, #container {
-    background-color: #464033;
+    background-color: #2c2c2c;
     height: 100%;
 }
 
@@ -69,3 +69,4 @@ html, body, #container {
     color: rgb(180, 166, 166);
     border-color: rgb(180, 166, 166);
 }
+
